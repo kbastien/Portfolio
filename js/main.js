@@ -115,7 +115,7 @@ jQuery(document).ready(function($){
 			 	 function() 
 			 	 {  
 				  $(".social-links").fadeToggle("active");	
-			}, 800);
+			}, 10);
 				  
 				  		  
 		  		  $(".bgblack").toggleClass("active");	

@@ -600,7 +600,8 @@ transition: all 0.2s ease-in-out;
 
 #works{
   	max-width:100%;
-  	background: url('../img/bgworks.jpg');
+  	/*background: url('../img/bgworks.jpg');*/
+    background-color: #1a1a1c;
 
 }
 
