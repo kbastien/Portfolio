@@ -355,7 +355,7 @@ p a:hover {
   right: 0;
   display: none;
   position: fixed;
-  bottom: 500px; 
+  top: 250px; 
   z-index: 999999;
 }
 
@@ -583,16 +583,16 @@ transition: all 0.2s ease-in-out;
 
 
 .work1-container .work-header {
-	background-image:url('../img/travel/macbook.png');
+	background-image:url('../img/travel/macbook.jpg');
 
 }
 
 .work2-container .work-header {
-	background-image:url('http://www.placehold.it/1200x900');
+	background-image:url('../img/workfrom/bg.png');
 }
 
 .work3-container .work-header {
-	background-image:url('http://www.placehold.it/1200x900');
+	background-image:url('../img/ase/bg.png');
 }
 
 
