@@ -1891,6 +1891,10 @@ input[type=submit] {
     margin: 0 12px;
 }
 
+.social-links {
+  padding-left: 10px;
+  padding-bottom: 20px;
+}
 
 #menu {
 	top:15%;
